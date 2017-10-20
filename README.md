@@ -1,5 +1,4 @@
 # ThinkAgile Network Controller Overview
 
-Provide overview of SDN controller
 
-This will provide details on SDN controller in terms of features etc.
+The Thinkagile controller was developed on the OpenContrail platform to enable next generation Telco and Data Centers.
